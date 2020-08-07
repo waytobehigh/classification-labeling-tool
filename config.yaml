@@ -1,0 +1,10 @@
+input_path: data/input
+input_pattern: '*'
+output_path: data/output
+
+labels:
+  - mask
+  - no_mask
+  - bg
+
+handler: handle_image
