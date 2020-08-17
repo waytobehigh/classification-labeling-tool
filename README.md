@@ -2,10 +2,18 @@
 
 Yet another labeling tool... It transfers your files from one folder to many folders.
 
+## Setup
+
+```
+git clone https://github.com/waytobehigh/classification-labeling-tool.git
+
+cd classification-labeling-tool
+pip install -r requirements.txt
+```
+
 ## Usage
 
 ```
-pip install -r requirements.txt
 streamlit run app.py
 ```
 
